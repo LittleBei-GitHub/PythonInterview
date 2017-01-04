@@ -1,0 +1,6 @@
+# encoding=gbk
+
+test='²âÊÔtest'
+print(test)
+print(type(test))
+print(repr(test))
